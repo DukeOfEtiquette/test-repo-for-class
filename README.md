@@ -4,5 +4,6 @@
 
 1. Chapter 1
 1. Chapter 2
+1. Chapter 3
 
 This is a test repository for class to demonstrate A-C-P
